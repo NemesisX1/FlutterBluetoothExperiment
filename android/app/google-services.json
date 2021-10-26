@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "430726007864",
+    "project_id": "busblue-f507c",
+    "storage_bucket": "busblue-f507c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430726007864:android:0a1314be4bd8714fcaeacd",
+        "android_client_info": {
+          "package_name": "com.hub.bustooth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "430726007864-b7dcfli8b48pk35bqm7qc7d32sfvekl9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hub.bustooth",
+            "certificate_hash": "56eb1c0564e37f239f387b521a5a3aaf98395a8d"
+          }
+        },
+        {
+          "client_id": "430726007864-a6ge2okmj1la63i906m24tek7ve6pvbe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV-bmNyjZimbf8l8lLVbLMh01S5jLsJnk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "430726007864-a6ge2okmj1la63i906m24tek7ve6pvbe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
