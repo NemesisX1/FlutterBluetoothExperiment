@@ -6,9 +6,9 @@ class User extends BaseModel {
   final String? lastname;
 
   User({
-    this.name,
-    this.lastname,
-    this.uuid,
+    required this.name,
+    required this.lastname,
+    required this.uuid,
   });
 
   @override
