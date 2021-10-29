@@ -1,4 +1,4 @@
-#Tue Oct 26 12:51:33 WAT 2021
+#Thu Oct 28 12:55:10 WAT 2021
 base.2=/home/epitech/FlutterBluetoothExperiment/build/app/intermediates/dex/debug/mergeDexDebug/classes3.dex
 path.2=classes3.dex
 base.1=/home/epitech/FlutterBluetoothExperiment/build/app/intermediates/dex/debug/mergeDexDebug/classes2.dex
